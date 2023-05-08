@@ -1,0 +1,314 @@
+{
+    "footer": [
+            {
+                "title" : "Contacts",
+                "lines" : [
+                    "[E-mail](Joao.Seco@fct.unl.pt)",
+                    "Office: p2/1, Ed II",
+                    "Phone: +351212948536",
+                    "Fax: +351212948541"
+                ]
+            }
+        ],
+    "home": {
+        "header": "Bio",
+        "title": "Bio",
+        "body": [
+            "Associate Professor at the Computer Science Department of the FCT/Universidade Nova de Lisboa.",
+            "Researcher at [NOVA-LINCS](http://nova-lincs.di.fct.unl.pt/person/26) (NOVA-Laboratory for Computer Science and Informatics).",
+            "Member of the PLASTIC Research Team", 
+            "Orcid | Researcher Id: D-2035-2010",
+            "# Projects",
+            "TARDIS ([EU Horizon](https://www.project-tardis.eu/)) Running.",
+            "GOLEM ([Carnegie Mellon|Portugal LISBOA-01-0247-FEDER-045917](https://golem-cmuportugal.github.io/)) Running, PI@[NOVA LINCS](https://nova-lincs.di.fct.unl.pt)",
+            "CLAY ([PTDC/EEI­CTP/4293/2014](http://ctp.di.fct.unl.pt/CLAY) - 2016 - ...) Closed.",
+            "MC Substitute: EUTypes COST Action IC15123 (EU website, website)",
+            "Member: BETTY COST Action IC1201 (EU website, website)",
+            "Flex-Agile (with OutSystems - Aug 2008 - ... ) Running.",
+            "Certified Interfaces ([Carnegie Mellon|Portugal NGN44-2009-2012](http://ctp.di.fct.unl.pt/INTERFACES/INTERFACES-final-2013.pdf)) Closed.",
+            "StreamLine (PTDC/EIA-CCO/104583/2008 - 2010-2012) Closed, PI.",
+            "IP Sensoria (EU IST FP6 - 2005-2009) Closed.",
+            "ComponentGlue (Microsoft Research Grant 2002-73) Closed.",
+            "DataBricks (SAPIENS 33924/2000-2003) Closed.",
+            "## Research Interests",
+            "Programming Languages and Type Systems.",
+            "Type based concurrency and aliasing control.", 
+            "Spatial-Behavioural Type Logics and Type Systems.",
+            "Modularity / Reconfiguration / Component Programming Languages.",
+            "## ACM Topics",
+            "D. Software",
+            "D.3 PROGRAMMING LANGUAGES",
+            "F. Theory of Computation",
+            "F.3 LOGICS AND MEANINGS OF PROGRAMS"
+        ]
+    },
+    "header": {
+        "text": [
+            "# João Costa Seco",
+            "### Associated Professor, Computer Science Department",
+            "NOVA School of Science and Technology, NOVA University Lisbon"
+        ],
+        "image": "/img/jcs-banner.jpg"
+    },
+    "pages": [
+        {
+            "type": "pub",
+            "path": "/publications",
+            "header": "Publications",
+            "sections":[{
+                "title": "",
+                "bib": "/jrcs-publications-Bibtex.bib"
+            }]
+        },
+        {
+            "type": "images",
+            "path": "/classes",
+            "header": "Classes",
+            "title": "Classes",
+            "paragraphs": [
+                {
+                    "text": [ ],
+                    "image" : ""
+                },
+                {
+                    "text" : [ ],
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "type": "images",
+            "path": "/students",
+            "header": "Students",
+            "title": "Current Students",
+            "paragraphs": [
+                {  "text": 
+                    [
+                        "Eduardo Geraldo (PhD)",
+                        "On going 2019 - ...",
+                        "Topic: Gradual Dependent Information Flow Verification"
+                    ], 
+                    "image": ""
+                },
+                {  "text": 
+                    [
+                        "Luís Carvalho (PhD)",
+                        "On going 2017 - ...",
+                        "Topic: Safe evolution of software: versions and dynamic reconfiguration"
+                    ], 
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Henrique Guerra (PhD)",
+                        "On going: 2023 - ...",
+                        "Topic: "
+                    ],
+                    "image": ""
+                },
+                {  "text": [
+                        "Diogo Rodrigues (MSc)",
+                        "On going: 2022 - ...",
+                        "Topic: Information flow in Regrada"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Miguel Brites (MSc)",
+                        "On going: 2022 - ...",
+                        "Topic: Information Flow Verification in Spring Applications"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": "# Former students",
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Henrique Guerra (MSc)",
+                        "Finished: 2021 - 2023",
+                        "Topic: Hoogle* - : Synthesis of constants and lambda-abstractions in Petrinet based synthesis"
+                    ],
+                    "image": ""
+                },
+
+
+
+
+
+                {
+                    "text": [
+                        "Miguel Cosme Leitão Pino (MSc)",
+                        "Finished: 2020",
+                        "Topic: Asset management platform for distributed platform for autonomous farming",
+                        "Co-advised with Luís Campos and João Leitão"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Mariana de Oliveira Alves Bexiga (MSc)",
+                        "Finished: 2020",
+                        "Topic: DSL for Collaboration between Designers and OutSystems Developers",
+                        "Co-advised with  Stoyan Garbatov"
+                    ],
+                    "image": ""
+                },
+
+                {
+                    "text": [
+                        "Pedro Miguel Sobreira Rodrigues (MSc)",
+                        "Finished: 2020",
+                        "Topic: Modelling User Interfaces without CSS",
+                        "Co-advised with Hugo Lourenço"
+                    ],
+                    "image": ""
+                },
+
+                {
+                    "text": [
+                        "Leandro Miguel Ribeiro Galrinho (MSc)",
+                        "Finished: 2020",
+                        "Topic: Live Graph Databases using DCR Graphs and reactive data"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Álvaro António Silva Ferreira Santos (MSc)",
+                        "Finished: 2018 - 2020",
+                        "Topic: Distributed Live Programs as Distributed Live Data",
+                        "Co-advised with João Leitão"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "André Manuel Brazão Pontes (MSc)",
+                        "Finished: 2019",
+                        "Topic: SNITCH-Spring: Dependent Gradual Information Flow Analysis in Spring"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Gil Godinho Vieira Rodrigues Alves (MSc)",
+                        "Finished: 2019",
+                        "Topic: Interactive Programming Construction",
+                        "Co-advised with Teresa Romão"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Rodrigo de Almeida Graças (MSc)",
+                        "Finished: 2017 - 2020",
+                        "Topic: Measuring Performance in Network-Intensive Web Applications",
+                        "Co-advised with Teresa Romão"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Michael Simões Silva (MSc)",
+                        "Finished: 2019",
+                        "Topic: Validation of Data Invariants in the OutSystems Platform",
+                        "Co-advised with Hugo Lourenço"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "João Ricardo Alpoim Gonçalves (MSc)",
+                        "Finished: 2019",
+                        "Topic: A model for widget composition in the OutSystems language",
+                        "Co-advised with Hugo Lourenço"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "António Simões Ferreira (MSc)",
+                        "Finished: 2019",
+                        "Topic: Integration of Visual Languages with SCS tools in the Software Development Industry",
+                        "Co-advised with Jácome Cunha, Hugo Vieira, André Vieira and Hugo Lourenço."
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Eduardo Miguel Pereira Cano Rico Geraldo (MSc)",
+                        "Finished: 2018",
+                        "Topic: SNITCH: Dependent Dynamic Information Flow Analysis on Intermediate Java Code"
+                    ],
+                    "image": ""
+                },
+
+                {
+                    "text": [
+                        "António José Gonçalves Costa Silva (MSc)",
+                        "Finished: 2018",
+                        "Topic: Localização e tradução automática em plataformas mobile"
+                    ],
+                    "image": ""
+                },
+
+                {
+                    "text": [
+                        "Paulo Jorge Sena Figueira (MSc)",
+                        "Finished: 2018",
+                        "Topic: Test Automation Framework for Embedded Systems",
+                        "Co-advised by Carla Ferreira and Jorge Lopes"
+                    ],
+                    "image": ""
+                },
+
+                {
+                    "text": [
+                        "Pawel Piotr Krysiak (MSc)",
+                        "Finished: 2017",
+                        "Topic: Domain Specific Language for Data Validation in OutSystems Platform",
+                        "Co-advised by Hugo Lourenço"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Nuno Castro Martins (MSc)",
+                        "Finished: 2016",
+                        "Topic: Loom: Unifying Client-Side Web Technologies in a Single Programming Language"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Tiago Delfim Parada Gonçalves Queijo Lopes (MSc)",
+                        "Finished: 2016",
+                        "Topic: Language-Based Data Sharing in Web Applications"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "Luís Afonso Correia Soares da Silva Carvalho (MSc)",
+                        "Finished: 2016",
+                        "Topic: The View Update Problem in the OutSystems Aggregate Language",
+                        "Co-advised by Hugo Lourenço"
+                    ],
+                    "image": ""
+                },
+                {
+                    "text": [
+                        "João Guilherme Cabrita Campinhos (MSc)",
+                        "Finished: 2016",
+                        "Topic: A Versioned Approach to Web Service Evolution",
+                        "Co-advised by Hugo Lourenço"
+                    ],
+                    "image": ""
+                }
+            ]
+        }
+    ]
+}
