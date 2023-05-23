@@ -302,7 +302,77 @@
                         "Co-advised by Hugo Lourenço"
                     ],
                     "image": ""
-                }
+                },
+                { "text": ["Bruno Grácio (MSc)", "Finished: 2015", "Co-advised by Hugo Lourenço"], "image":"" },
+                { "text": ["João Mateus (MSc)", "Finished: 2015"], "image":"" },
+                { "text": [
+                    "Sara Gonçalves (MSc at OutSystems)",
+                    "Finished: 2014",
+                    "Co-advised by Hugo Lourenço"
+                    ], 
+                    "image":"" 
+                },
+                { "text": [
+                  "Miguel Pires (MSc at OutSystems)",
+                  "Finished: 2014",
+                  "Co-advised by Hugo Lourenço"
+                ], "image":"" 
+                },
+                { "text": [
+                  "Nuno Grade (MSc at OutSystems)",
+                  "Finished: 2013",
+                  "Co-advised by Hugo Lourenço"
+                ], "image":"" },
+                { "text": [
+                  "Miguel Alves (MSc at OutSystems)",
+                  "Finished: 2013",
+                  "Co-advised by Lúcio Ferrão"
+                ], "image":"" },
+                { "text": [
+                  "Sérgio Silva ",
+                  "Finished: 2012"
+                ], "image":"" },
+                { "text": [
+                  "Paulo Ferreira ",
+                  "Finished: 2012"
+                ], "image":"" },
+                { "text": [
+                  "Miguel Lourenço ",
+                  "Finished: 2011"
+                ], "image":"" },
+                { "text": [
+                  "Nuno Parreira",
+                  "Finished: 2011"
+                ], "image":"" },
+                { "text": [
+                  "Hugo Aguiar (MSc at OutSystems)",
+                  "Finished: 2010",
+                  "Co-advised by Lúcio Ferrão"
+                ], "image":"" },
+                { "text": [
+                  "Miguel Domingues",
+                  "Finished: 2010"
+                ], "image":"" },
+                { "text": [
+                  "Paulo Ferreira (UROP scholarship)",
+                  "Finished: 2010"
+                ], "image":"" },
+                { "text": [
+                  "Miguel Lourenço (MSc)",
+                  "Finished: 2010"
+                ], "image":"" },
+                { "text": [
+                  "Margarida Piriquito ",
+                  "Finished: 2008"
+                ], "image":"" },
+                { "text": [
+                  "Ricardo Silva (BSc (5y))",
+                  "Finished: 2007"
+                ], "image":"" },
+                { "text": [
+                  "Tiago Pais (BSc (5y))",
+                  "Finished: 2006"
+                ], "image":"" }
             ]
         }
     ]
