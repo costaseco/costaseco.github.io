@@ -18,6 +18,11 @@
             "Researcher at [NOVA-LINCS](http://nova-lincs.di.fct.unl.pt/person/26) (NOVA-Laboratory for Computer Science and Informatics).",
             "Member of the PLASTIC Research Team", 
             "Orcid | Researcher Id: D-2035-2010",
+            "## Research Interests",
+            "Programming Languages and Type Systems.",
+            "Type based concurrency and aliasing control.", 
+            "Spatial-Behavioural Type Logics and Type Systems.",
+            "Modularity / Reconfiguration / Component Programming Languages.",
             "# Projects",
             "TARDIS ([EU Horizon](https://www.project-tardis.eu/)) Running.",
             "GOLEM ([Carnegie Mellon|Portugal LISBOA-01-0247-FEDER-045917](https://golem-cmuportugal.github.io/)) Running, PI@[NOVA LINCS](https://nova-lincs.di.fct.unl.pt)",
@@ -29,17 +34,7 @@
             "StreamLine (PTDC/EIA-CCO/104583/2008 - 2010-2012) Closed, PI.",
             "IP Sensoria (EU IST FP6 - 2005-2009) Closed.",
             "ComponentGlue (Microsoft Research Grant 2002-73) Closed.",
-            "DataBricks (SAPIENS 33924/2000-2003) Closed.",
-            "## Research Interests",
-            "Programming Languages and Type Systems.",
-            "Type based concurrency and aliasing control.", 
-            "Spatial-Behavioural Type Logics and Type Systems.",
-            "Modularity / Reconfiguration / Component Programming Languages.",
-            "## ACM Topics",
-            "D. Software",
-            "D.3 PROGRAMMING LANGUAGES",
-            "F. Theory of Computation",
-            "F.3 LOGICS AND MEANINGS OF PROGRAMS"
+            "DataBricks (SAPIENS 33924/2000-2003) Closed."
         ]
     },
     "header": {
