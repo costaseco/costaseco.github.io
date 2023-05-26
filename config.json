@@ -18,6 +18,11 @@
             "Researcher at [NOVA-LINCS](http://nova-lincs.di.fct.unl.pt/person/26) (NOVA-Laboratory for Computer Science and Informatics).",
             "Member of the PLASTIC Research Team", 
             "Orcid | Researcher Id: D-2035-2010",
+            "## Research Interests",
+            "Programming Languages and Type Systems.",
+            "Type based concurrency and aliasing control.", 
+            "Spatial-Behavioural Type Logics and Type Systems.",
+            "Modularity / Reconfiguration / Component Programming Languages.",
             "# Projects",
             "TARDIS ([EU Horizon](https://www.project-tardis.eu/)) Running.",
             "GOLEM ([Carnegie Mellon|Portugal LISBOA-01-0247-FEDER-045917](https://golem-cmuportugal.github.io/)) Running, PI@[NOVA LINCS](https://nova-lincs.di.fct.unl.pt)",
@@ -29,17 +34,7 @@
             "StreamLine (PTDC/EIA-CCO/104583/2008 - 2010-2012) Closed, PI.",
             "IP Sensoria (EU IST FP6 - 2005-2009) Closed.",
             "ComponentGlue (Microsoft Research Grant 2002-73) Closed.",
-            "DataBricks (SAPIENS 33924/2000-2003) Closed.",
-            "## Research Interests",
-            "Programming Languages and Type Systems.",
-            "Type based concurrency and aliasing control.", 
-            "Spatial-Behavioural Type Logics and Type Systems.",
-            "Modularity / Reconfiguration / Component Programming Languages.",
-            "## ACM Topics",
-            "D. Software",
-            "D.3 PROGRAMMING LANGUAGES",
-            "F. Theory of Computation",
-            "F.3 LOGICS AND MEANINGS OF PROGRAMS"
+            "DataBricks (SAPIENS 33924/2000-2003) Closed."
         ]
     },
     "header": {
@@ -51,282 +46,407 @@
         "image": "/img/jcs-banner.jpg"
     },
     "pages": [
-        {
-            "type": "pub",
-            "path": "/publications",
-            "header": "Publications",
-            "sections":[{
-                "title": "",
-                "bib": "/jrcs-publications-Bibtex.bib"
-            }]
-        },
-        {
-            "type": "images",
-            "path": "/classes",
-            "header": "Classes",
-            "title": "Classes",
-            "paragraphs": [
-                {
-                    "text": [ ],
-                    "image" : ""
-                },
-                {
-                    "text" : [ ],
-                    "image": ""
-                }
-            ]
-        },
-        {
-            "type": "images",
-            "path": "/students",
-            "header": "Students",
-            "title": "Current Students",
-            "paragraphs": [
-                {  "text": 
-                    [
-                        "Eduardo Geraldo (PhD)",
-                        "On going 2019 - ...",
-                        "Topic: Gradual Dependent Information Flow Verification"
-                    ], 
-                    "image": ""
-                },
-                {  "text": 
-                    [
-                        "Luís Carvalho (PhD)",
-                        "On going 2017 - ...",
-                        "Topic: Safe evolution of software: versions and dynamic reconfiguration"
-                    ], 
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Henrique Guerra (PhD)",
-                        "On going: 2023 - ...",
-                        "Topic: "
-                    ],
-                    "image": ""
-                },
-                {  "text": [
-                        "Diogo Rodrigues (MSc)",
-                        "On going: 2022 - ...",
-                        "Topic: Information flow in Regrada"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Miguel Brites (MSc)",
-                        "On going: 2022 - ...",
-                        "Topic: Information Flow Verification in Spring Applications"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": "# Former students",
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Henrique Guerra (MSc)",
-                        "Finished: 2021 - 2023",
-                        "Topic: Hoogle* - : Synthesis of constants and lambda-abstractions in Petrinet based synthesis"
-                    ],
-                    "image": ""
-                },
+      {
+        "type": "pub",
+        "path": "/publications",
+        "header": "Publications",
+        "sections": [
+          {
+            "title": "",
+            "bib": "/jrcs-publications-Bibtex.bib"
+          }
+        ]
+      },
+      {
+        "type": "images",
+        "path": "/research",
+        "header": "Projects",
+        "title": "Research Projects",
+        "paragraphs": [
+          {
+            "text": [
+              "[TaRDIS](https://www.project-tardis.eu/)",
+              "On going 2023 - 2025",
+              "Trustworthy And Resilient Decentralised Intelligence For Edge Systems"
+            ],
+            "image": "https://www.project-tardis.eu/wp-content/uploads/sites/101/2023/03/TaRDIS_logo_rgb_colored-2048x1042.png"
+          },
+          {
+            "text": [
+              "[GOLEM](https://golem-cmuportugal.github.io/)",
+              "On going 2020 - 2023",
+              "Automated Programming To Revolutionize App Development"
+            ],
+            "image": "img/golem.jpg"
+          },
+          {
+            "text": [
+              "[CLAY](http://ctp.di.fct.unl.pt/CLAY/)",
+              "concluded 2017 - 2020",
+              "An Environment for Live Construction of Trustworthy Software"
+            ],
+            "image": ""
+          }
+        ]
+      },
+      {
+        "type": "images",
+        "path": "/classes",
+        "header": "Teaching",
+        "title": "Teaching",
+        "paragraphs": [
+          {
+            "text": [],
+            "image": ""
+          },
+          {
+            "text": [],
+            "image": ""
+          }
+        ]
+      },
+      {
+        "type": "images",
+        "path": "/students",
+        "header": "Students",
+        "title": "Current Students",
+        "paragraphs": [
+          {
+            "text": [
+              "Eduardo Geraldo (PhD)",
+              "On going 2019 - ...",
+              "Topic: Gradual Dependent Information Flow Verification"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Luís Carvalho (PhD)",
+              "On going 2017 - ...",
+              "Topic: Safe evolution of software: versions and dynamic reconfiguration"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Diogo Rodrigues (MSc)",
+              "On going: 2022 - ...",
+              "Topic: Information flow in Regrada"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Miguel Brites (MSc)",
+              "On going: 2022 - ...",
+              "Topic: Information Flow Verification in Spring Applications"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Duarte Carvalho (MSc)",
+              "On going: 2022 - ...",
+              "Topic: "
+            ],
+            "image": ""
+          },
+          {
+            "text": "# Former students",
+            "image": ""
+          },
+          {
+            "text": [
+              "Henrique Guerra (MSc)",
+              "Finished: 2021 - 2023",
+              "Topic: Hoogle* - : Synthesis of constants and lambda-abstractions in Petrinet based synthesis"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Miguel Cosme Leitão Pino (MSc)",
+              "Finished: 2020",
+              "Topic: Asset management platform for distributed platform for autonomous farming",
+              "Co-advised with Luís Campos and João Leitão"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Mariana de Oliveira Alves Bexiga (MSc)",
+              "Finished: 2020",
+              "Topic: DSL for Collaboration between Designers and OutSystems Developers",
+              "Co-advised with  Stoyan Garbatov"
+            ],
+            "image": ""
+          },
 
+          {
+            "text": [
+              "Pedro Miguel Sobreira Rodrigues (MSc)",
+              "Finished: 2020",
+              "Topic: Modelling User Interfaces without CSS",
+              "Co-advised with Hugo Lourenço"
+            ],
+            "image": ""
+          },
 
+          {
+            "text": [
+              "Leandro Miguel Ribeiro Galrinho (MSc)",
+              "Finished: 2020",
+              "Topic: Live Graph Databases using DCR Graphs and reactive data"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Álvaro António Silva Ferreira Santos (MSc)",
+              "Finished: 2018 - 2020",
+              "Topic: Distributed Live Programs as Distributed Live Data",
+              "Co-advised with João Leitão"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "André Manuel Brazão Pontes (MSc)",
+              "Finished: 2019",
+              "Topic: SNITCH-Spring: Dependent Gradual Information Flow Analysis in Spring"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Gil Godinho Vieira Rodrigues Alves (MSc)",
+              "Finished: 2019",
+              "Topic: Interactive Programming Construction",
+              "Co-advised with Teresa Romão"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Rodrigo de Almeida Graças (MSc)",
+              "Finished: 2017 - 2020",
+              "Topic: Measuring Performance in Network-Intensive Web Applications",
+              "Co-advised with Teresa Romão"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Michael Simões Silva (MSc)",
+              "Finished: 2019",
+              "Topic: Validation of Data Invariants in the OutSystems Platform",
+              "Co-advised with Hugo Lourenço"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "João Ricardo Alpoim Gonçalves (MSc)",
+              "Finished: 2019",
+              "Topic: A model for widget composition in the OutSystems language",
+              "Co-advised with Hugo Lourenço"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "António Simões Ferreira (MSc)",
+              "Finished: 2019",
+              "Topic: Integration of Visual Languages with SCS tools in the Software Development Industry",
+              "Co-advised with Jácome Cunha, Hugo Vieira, André Vieira and Hugo Lourenço."
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Eduardo Miguel Pereira Cano Rico Geraldo (MSc)",
+              "Finished: 2018",
+              "Topic: SNITCH: Dependent Dynamic Information Flow Analysis on Intermediate Java Code"
+            ],
+            "image": ""
+          },
 
+          {
+            "text": [
+              "António José Gonçalves Costa Silva (MSc)",
+              "Finished: 2018",
+              "Topic: Localização e tradução automática em plataformas mobile"
+            ],
+            "image": ""
+          },
 
-
-                {
-                    "text": [
-                        "Miguel Cosme Leitão Pino (MSc)",
-                        "Finished: 2020",
-                        "Topic: Asset management platform for distributed platform for autonomous farming",
-                        "Co-advised with Luís Campos and João Leitão"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Mariana de Oliveira Alves Bexiga (MSc)",
-                        "Finished: 2020",
-                        "Topic: DSL for Collaboration between Designers and OutSystems Developers",
-                        "Co-advised with  Stoyan Garbatov"
-                    ],
-                    "image": ""
-                },
-
-                {
-                    "text": [
-                        "Pedro Miguel Sobreira Rodrigues (MSc)",
-                        "Finished: 2020",
-                        "Topic: Modelling User Interfaces without CSS",
-                        "Co-advised with Hugo Lourenço"
-                    ],
-                    "image": ""
-                },
-
-                {
-                    "text": [
-                        "Leandro Miguel Ribeiro Galrinho (MSc)",
-                        "Finished: 2020",
-                        "Topic: Live Graph Databases using DCR Graphs and reactive data"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Álvaro António Silva Ferreira Santos (MSc)",
-                        "Finished: 2018 - 2020",
-                        "Topic: Distributed Live Programs as Distributed Live Data",
-                        "Co-advised with João Leitão"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "André Manuel Brazão Pontes (MSc)",
-                        "Finished: 2019",
-                        "Topic: SNITCH-Spring: Dependent Gradual Information Flow Analysis in Spring"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Gil Godinho Vieira Rodrigues Alves (MSc)",
-                        "Finished: 2019",
-                        "Topic: Interactive Programming Construction",
-                        "Co-advised with Teresa Romão"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Rodrigo de Almeida Graças (MSc)",
-                        "Finished: 2017 - 2020",
-                        "Topic: Measuring Performance in Network-Intensive Web Applications",
-                        "Co-advised with Teresa Romão"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Michael Simões Silva (MSc)",
-                        "Finished: 2019",
-                        "Topic: Validation of Data Invariants in the OutSystems Platform",
-                        "Co-advised with Hugo Lourenço"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "João Ricardo Alpoim Gonçalves (MSc)",
-                        "Finished: 2019",
-                        "Topic: A model for widget composition in the OutSystems language",
-                        "Co-advised with Hugo Lourenço"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "António Simões Ferreira (MSc)",
-                        "Finished: 2019",
-                        "Topic: Integration of Visual Languages with SCS tools in the Software Development Industry",
-                        "Co-advised with Jácome Cunha, Hugo Vieira, André Vieira and Hugo Lourenço."
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Eduardo Miguel Pereira Cano Rico Geraldo (MSc)",
-                        "Finished: 2018",
-                        "Topic: SNITCH: Dependent Dynamic Information Flow Analysis on Intermediate Java Code"
-                    ],
-                    "image": ""
-                },
-
-                {
-                    "text": [
-                        "António José Gonçalves Costa Silva (MSc)",
-                        "Finished: 2018",
-                        "Topic: Localização e tradução automática em plataformas mobile"
-                    ],
-                    "image": ""
-                },
-
-                {
-                    "text": [
-                        "Paulo Jorge Sena Figueira (MSc)",
-                        "Finished: 2018",
-                        "Topic: Test Automation Framework for Embedded Systems",
-                        "Co-advised by Carla Ferreira and Jorge Lopes"
-                    ],
-                    "image": ""
-                },
-
-                {
-                    "text": [
-                        "Pawel Piotr Krysiak (MSc)",
-                        "Finished: 2017",
-                        "Topic: Domain Specific Language for Data Validation in OutSystems Platform",
-                        "Co-advised by Hugo Lourenço"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Nuno Castro Martins (MSc)",
-                        "Finished: 2016",
-                        "Topic: Loom: Unifying Client-Side Web Technologies in a Single Programming Language"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Tiago Delfim Parada Gonçalves Queijo Lopes (MSc)",
-                        "Finished: 2016",
-                        "Topic: Language-Based Data Sharing in Web Applications"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "Luís Afonso Correia Soares da Silva Carvalho (MSc)",
-                        "Finished: 2016",
-                        "Topic: The View Update Problem in the OutSystems Aggregate Language",
-                        "Co-advised by Hugo Lourenço"
-                    ],
-                    "image": ""
-                },
-                {
-                    "text": [
-                        "João Guilherme Cabrita Campinhos (MSc)",
-                        "Finished: 2016",
-                        "Topic: A Versioned Approach to Web Service Evolution",
-                        "Co-advised by Hugo Lourenço"
-                    ],
-                    "image": ""
-                }
-            ]
-        },
-        {
-            "path": "/research/",
-            "header": "Research",
-            "title": "Research topics",
-            "type":"text",
-            "body":[
-                "If you are interested in doing a PhD or a MSc in one of the following topics, please contact me.",
-                "## Programming Languages",
-                "I'm interested in all topics related to programming languages, especially those pertaining the correctness of software using lightweight techniques like type systems. Sophisticated languages like RUST, OCaml, or Haskell have characteristics that ",
-                "## Live Programming",
-                "## Automated Software Engineering and Software Evolution",
-                "## Frontiers between Business process languages and Data",
-                "## Software Security",
-                "## Concurrency and Distribution",
-                "## Low-code platforms",
-                "I have been working with the OutSystems research team for the last 14 years."
-                ]
-        }
+          {
+            "text": [
+              "Paulo Jorge Sena Figueira (MSc)",
+              "Finished: 2018",
+              "Topic: Test Automation Framework for Embedded Systems",
+              "Co-advised by Carla Ferreira and Jorge Lopes"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Pawel Piotr Krysiak (MSc)",
+              "Finished: 2017",
+              "Topic: Domain Specific Language for Data Validation in OutSystems Platform",
+              "Co-advised by Hugo Lourenço"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Nuno Castro Martins (MSc)",
+              "Finished: 2016",
+              "Topic: Loom: Unifying Client-Side Web Technologies in a Single Programming Language"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Tiago Delfim Parada Gonçalves Queijo Lopes (MSc)",
+              "Finished: 2016",
+              "Topic: Language-Based Data Sharing in Web Applications"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Luís Afonso Correia Soares da Silva Carvalho (MSc)",
+              "Finished: 2016",
+              "Topic: The View Update Problem in the OutSystems Aggregate Language",
+              "Co-advised by Hugo Lourenço"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "João Guilherme Cabrita Campinhos (MSc)",
+              "Finished: 2016",
+              "Topic: A Versioned Approach to Web Service Evolution",
+              "Co-advised by Hugo Lourenço"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Bruno Grácio (MSc)",
+              "Finished: 2015",
+              "Co-advised by Hugo Lourenço"
+            ],
+            "image": ""
+          },
+          { "text": ["João Mateus (MSc)", "Finished: 2015"], "image": "" },
+          {
+            "text": [
+              "Sara Gonçalves (MSc at OutSystems)",
+              "Finished: 2014",
+              "Co-advised by Hugo Lourenço"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Miguel Pires (MSc at OutSystems)",
+              "Finished: 2014",
+              "Co-advised by Lúcio Ferrão"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Nuno Grade (MSc at OutSystems)",
+              "Finished: 2013",
+              "Co-advised by Hugo Lourenço"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Miguel Alves (MSc at OutSystems)",
+              "Finished: 2013",
+              "Co-advised by Lúcio Ferrão"
+            ],
+            "image": ""
+          },
+          { "text": ["Sérgio Silva ", "Finished: 2012"], "image": "" },
+          { "text": ["Paulo Ferreira ", "Finished: 2012"], "image": "" },
+          { "text": ["Miguel Lourenço ", "Finished: 2011"], "image": "" },
+          { "text": ["Nuno Parreira", "Finished: 2011"], "image": "" },
+          {
+            "text": [
+              "Hugo Aguiar (MSc at OutSystems)",
+              "Finished: 2010",
+              "Co-advised by Lúcio Ferrão"
+            ],
+            "image": ""
+          },
+          { "text": ["Miguel Domingues", "Finished: 2010"], "image": "" },
+          {
+            "text": ["Paulo Ferreira (UROP scholarship)", "Finished: 2010"],
+            "image": ""
+          },
+          { "text": ["Miguel Lourenço (MSc)", "Finished: 2010"], "image": "" },
+          { "text": ["Margarida Piriquito ", "Finished: 2008"], "image": "" },
+          {
+            "text": ["Ricardo Silva (BSc (5y))", "Finished: 2007"],
+            "image": ""
+          },
+          { "text": ["Tiago Pais (BSc (5y))", "Finished: 2006"], "image": "" }
+        ]
+      },
+      {
+        "type": "images",
+        "path": "/outreach",
+        "header": "OutReach",
+        "title": "OutReach Projects",
+        "paragraphs": [
+          {
+            "text": ["[CodingFest](https://codingfest.org)", "2016 - 2019"],
+            "image": "https://codingfest.org/aquakids/img/Logo2018.png"
+          },
+          {
+            "text": [
+              "[OCTO NOVA](https://octonova.di.fct.unl.pt)",
+              "2020 - 2022"
+            ],
+            "image": "https://octonova.di.fct.unl.pt/wp-content/uploads/cropped-logo_octonova_.png"
+          }
+        ]
+      },
+      {
+        "path": "/topics/",
+        "header": "Topics",
+        "title": "Research topics",
+        "type": "text",
+        "body": [
+            "If you are interested in doing a PhD or a MSc in one of the following topics, please contact me.",
+            "## Programming Languages",
+            "I'm interested in all topics related to programming languages, especially those pertaining the correctness",
+            "of software using lightweight techniques like type systems. Sophisticated languages like RUST, OCaml, or Haskell",
+            "have characteristics that help developers write correct software. I'm interested in exploring these characteristics",
+            "and pushing them further by using techniques like dependent types, refinement types, and type-level programming.",
+            "## Live Programming",
+            "The evolution of software is a complex task. Developers need to understand the code they are changing, and the impact",
+            "of their changes. Live programming is a paradigm that aims to help developers in this task by providing immediate feedback",
+            "on the impact of their changes. I'm interested in exploring this paradigm in the context of web applications.",
+            "## Automated Software Engineering and Software Evolution",
+            "Software is not static. It evolves over time. I'm interested in exploring techniques that help developers evolve their",
+            "software. I'm particularly interested in techniques that help developers evolve their software safely.",
+            "## Frontiers between Business process languages and Data",
+            "Business process languages are used to describe the flow of data in an organization. However, processes, data and code live in different worlds.",
+            "I'm interested in exploring techniques that help developers join these worlds.",
+            "## Software Security",
+            "I've been working on software security for the last 10 years. I'm interested in making software secure by construction.",
+            "## Concurrency and Distribution",
+            "## Low-code platforms",
+            "I have been working with the OutSystems research team for the last 14 years and the topic of low-code languages",
+            "and lightweight abstraction mechanims is one interesting topic for me."
+        ]
+    }
     ]
 }
