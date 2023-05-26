@@ -309,6 +309,24 @@
                     "image": ""
                 }
             ]
+        },
+        {
+            "path": "/research/",
+            "header": "Research",
+            "title": "Research topics",
+            "type":"text",
+            "body":[
+                "If you are interested in doing a PhD or a MSc in one of the following topics, please contact me.",
+                "## Programming Languages",
+                "I'm interested in all topics related to programming languages, especially those pertaining the correctness of software using lightweight techniques like type systems. Sophisticated languages like RUST, OCaml, or Haskell have characteristics that ",
+                "## Live Programming",
+                "## Automated Software Engineering and Software Evolution",
+                "## Frontiers between Business process languages and Data",
+                "## Software Security",
+                "## Concurrency and Distribution",
+                "## Low-code platforms",
+                "I have been working with the OutSystems research team for the last 14 years."
+                ]
         }
     ]
 }
