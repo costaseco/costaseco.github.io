@@ -145,14 +145,23 @@
           },
           {
             "text": [
-              "Duarte Carvalho (MSc)",
+              "Diogo Carvalho (MSc)",
               "On going: 2022 - ...",
               "Topic: "
             ],
             "image": ""
           },
+          
           {
             "text": "# Former students",
+            "image": ""
+          },
+          {
+            "text": [
+              "Bernardo Amaral (MSc)",
+              "Finished: May 2023",
+              "Topic: "
+            ],
             "image": ""
           },
           {
@@ -285,7 +294,7 @@
               "Paulo Jorge Sena Figueira (MSc)",
               "Finished: 2018",
               "Topic: Test Automation Framework for Embedded Systems",
-              "Co-advised by Carla Ferreira and Jorge Lopes"
+              "Co-advised by Carla Ferreira and Jorge Lopes (Altran)"
             ],
             "image": ""
           },
@@ -294,7 +303,7 @@
               "Pawel Piotr Krysiak (MSc)",
               "Finished: 2017",
               "Topic: Domain Specific Language for Data Validation in OutSystems Platform",
-              "Co-advised by Hugo Lourenço"
+              "Co-advised by Hugo Lourenço (OutSystems)"
             ],
             "image": ""
           },
@@ -319,7 +328,7 @@
               "Luís Afonso Correia Soares da Silva Carvalho (MSc)",
               "Finished: 2016",
               "Topic: The View Update Problem in the OutSystems Aggregate Language",
-              "Co-advised by Hugo Lourenço"
+              "Co-advised by Hugo Lourenço (OutSystems)"
             ],
             "image": ""
           },
@@ -328,7 +337,7 @@
               "João Guilherme Cabrita Campinhos (MSc)",
               "Finished: 2016",
               "Topic: A Versioned Approach to Web Service Evolution",
-              "Co-advised by Hugo Lourenço"
+              "Co-advised by Hugo Lourenço (OutSystems)"
             ],
             "image": ""
           },
@@ -336,7 +345,7 @@
             "text": [
               "Bruno Grácio (MSc)",
               "Finished: 2015",
-              "Co-advised by Hugo Lourenço"
+              "Co-advised by Hugo Lourenço (OutSystems)"
             ],
             "image": ""
           },
@@ -345,7 +354,7 @@
             "text": [
               "Sara Gonçalves (MSc at OutSystems)",
               "Finished: 2014",
-              "Co-advised by Hugo Lourenço"
+              "Co-advised by Hugo Lourenço (OutSystems)"
             ],
             "image": ""
           },
@@ -353,7 +362,7 @@
             "text": [
               "Miguel Pires (MSc at OutSystems)",
               "Finished: 2014",
-              "Co-advised by Lúcio Ferrão"
+              "Co-advised by Lúcio Ferrão (OutSystems)"
             ],
             "image": ""
           },
@@ -361,7 +370,7 @@
             "text": [
               "Nuno Grade (MSc at OutSystems)",
               "Finished: 2013",
-              "Co-advised by Hugo Lourenço"
+              "Co-advised by Hugo Lourenço (OutSystems)"
             ],
             "image": ""
           },
@@ -369,7 +378,7 @@
             "text": [
               "Miguel Alves (MSc at OutSystems)",
               "Finished: 2013",
-              "Co-advised by Lúcio Ferrão"
+              "Co-advised by Lúcio Ferrão (OutSystems)"
             ],
             "image": ""
           },
@@ -381,7 +390,7 @@
             "text": [
               "Hugo Aguiar (MSc at OutSystems)",
               "Finished: 2010",
-              "Co-advised by Lúcio Ferrão"
+              "Co-advised by Lúcio Ferrão (OutSystems)"
             ],
             "image": ""
           },
