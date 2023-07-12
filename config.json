@@ -66,7 +66,7 @@
           {
             "text": [
               "[TaRDIS](https://www.project-tardis.eu/)",
-              "On going 2023 - 2025",
+              "Ongoing 2023 - 2025",
               "Trustworthy And Resilient Decentralised Intelligence For Edge Systems"
             ],
             "image": "https://www.project-tardis.eu/wp-content/uploads/sites/101/2023/03/TaRDIS_logo_rgb_colored-2048x1042.png"
@@ -74,7 +74,7 @@
           {
             "text": [
               "[GOLEM](https://golem-cmuportugal.github.io/)",
-              "On going 2020 - 2023",
+              "Concluded 2020 - 2023",
               "Automated Programming To Revolutionize App Development"
             ],
             "image": "img/golem.jpg"
@@ -82,7 +82,7 @@
           {
             "text": [
               "[CLAY](http://ctp.di.fct.unl.pt/CLAY/)",
-              "concluded 2017 - 2020",
+              "Concluded 2017 - 2020",
               "An Environment for Live Construction of Trustworthy Software"
             ],
             "image": ""
@@ -169,6 +169,33 @@
               "Henrique Guerra (MSc)",
               "Finished: 2021 - 2023",
               "Topic: Hoogle* - : Synthesis of constants and lambda-abstractions in Petrinet based synthesis"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Constança Manteigas (MSc)",
+              "Finished: 2022",
+              "Topic: ",
+              "Co-advised with Carla Ferreira"
+            ],
+            "image": ""
+          },
+            {
+            "text": [
+              "Joana Parreira (MSc)",
+              "Finished: 2021",
+              "Topic: ",
+              "Co-advised with Carla Ferreira"
+            ],
+            "image": ""
+          },
+            {
+            "text": [
+              "Sara Almeida (MSc)",
+              "Finished: 2021",
+              "Topic: ",
+              "Co-advised with Bernardo Toninho"
             ],
             "image": ""
           },
