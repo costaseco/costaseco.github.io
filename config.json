@@ -201,6 +201,24 @@
           },
           {
             "text": [
+              "João Luís Guerreiro Ramalho (MSc)",
+              "Finished: 2020",
+              "Topic: ...",
+              "Co-advised with Hugo Lourenço (OutSystems)"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Inês Pina Fernandes (MSc)",
+              "Finished: 2020",
+              "Topic: ...",
+              "Co-advised with Miguel Neves (OutSystems)"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
               "Miguel Cosme Leitão Pino (MSc)",
               "Finished: 2020",
               "Topic: Asset management platform for distributed platform for autonomous farming",
@@ -267,7 +285,7 @@
               "Rodrigo de Almeida Graças (MSc)",
               "Finished: 2017 - 2020",
               "Topic: Measuring Performance in Network-Intensive Web Applications",
-              "Co-advised with Teresa Romão"
+              "Co-advised with João Leitão and Feedzai"
             ],
             "image": ""
           },
@@ -294,7 +312,7 @@
               "António Simões Ferreira (MSc)",
               "Finished: 2019",
               "Topic: Integration of Visual Languages with SCS tools in the Software Development Industry",
-              "Co-advised with Jácome Cunha, Hugo Vieira, André Vieira and Hugo Lourenço."
+              "Co-advised with Jácome Cunha, Hugo Vieira, André Vieira (OutSystems) and Hugo Lourenço (OutSystems)."
             ],
             "image": ""
           },
@@ -311,7 +329,8 @@
             "text": [
               "António José Gonçalves Costa Silva (MSc)",
               "Finished: 2018",
-              "Topic: Localização e tradução automática em plataformas mobile"
+              "Topic: Localização e tradução automática em plataformas mobile",
+              "Co-advised by João Leitão and Marcelo Lebre (Unbabel)"
             ],
             "image": ""
           },
