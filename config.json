@@ -143,25 +143,17 @@
             ],
             "image": ""
           },
-          {
-            "text": [
-              "Diogo Carvalho (MSc)",
-              "On going: 2022 - ...",
-              "Topic: "
-            ],
-            "image": ""
-          },
-          
+
           {
             "text": "# Former students",
             "image": ""
           },
           {
-            "text": [
-              "Bernardo Amaral (MSc)",
-              "Finished: May 2023",
-              "Topic: "
-            ],
+            "text": ["Diogo Carvalho (MSc)", "Finished: Nov 2023", "Topic: "],
+            "image": ""
+          },
+          {
+            "text": ["Bernardo Amaral (MSc)", "Finished: May 2023", "Topic: "],
             "image": ""
           },
           {
@@ -181,7 +173,7 @@
             ],
             "image": ""
           },
-            {
+          {
             "text": [
               "Joana Parreira (MSc)",
               "Finished: 2021",
@@ -190,7 +182,7 @@
             ],
             "image": ""
           },
-            {
+          {
             "text": [
               "Sara Almeida (MSc)",
               "Finished: 2021",
