@@ -113,6 +113,12 @@
         "paragraphs": [
           {
             "text": [
+              "Henrique Guerra (PhD)",
+              "On going: 2023 - ..."
+            ],
+            "image": ""
+          },          {
+            "text": [
               "Eduardo Geraldo (PhD)",
               "On going 2019 - ...",
               "Topic: Gradual Dependent Information Flow Verification"
@@ -124,22 +130,6 @@
               "Luís Carvalho (PhD)",
               "On going 2017 - ...",
               "Topic: Safe evolution of software: versions and dynamic reconfiguration"
-            ],
-            "image": ""
-          },
-          {
-            "text": [
-              "Diogo Rodrigues (MSc)",
-              "On going: 2022 - ...",
-              "Topic: Information flow in Regrada"
-            ],
-            "image": ""
-          },
-          {
-            "text": [
-              "Miguel Brites (MSc)",
-              "On going: 2022 - ...",
-              "Topic: Information Flow Verification in Spring Applications"
             ],
             "image": ""
           },
@@ -170,15 +160,6 @@
           },
           {
             "text": [
-              "João Souza e Silva (MSc)",
-              "On going: 2023 - ...",
-              "Topic: ",
-              "Co-advised with David Aveiro (Universidade da Madeira)"
-            ],
-            "image": ""
-          },
-          {
-            "text": [
               "Nuno Silva (MSc)",
               "On going: 2023 - ...",
               "Topic: ",
@@ -199,6 +180,23 @@
             "text": "# Former students",
             "image": ""
           },
+          {
+            "text": [
+              "Diogo Rodrigues (MSc)",
+              "Finished: 2024",
+              "Topic: Information flow in Regrada"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Miguel Brites (MSc)",
+              "Finished: 2024",
+              "Topic: Information Flow Verification in Spring Applications"
+            ],
+            "image": ""
+          },
+
           {
             "text": ["Diogo Carvalho (MSc)", "Finished: Nov 2023", "Topic: "],
             "image": ""
