@@ -113,6 +113,13 @@
         "paragraphs": [
           {
             "text": [
+              "Henrique Guerra (PhD)",
+              "On going: 2023 - ...",
+              "Topic: Gradual types and observational equality in a dependent setting"
+            ],
+            "image": ""
+          },          {
+            "text": [
               "Eduardo Geraldo (PhD)",
               "On going 2019 - ...",
               "Topic: Gradual Dependent Information Flow Verification"
@@ -129,8 +136,87 @@
           },
           {
             "text": [
+              "Bruno Esparteiro (MSc)",
+              "On going: 2024 - ...",
+              "Topic: OCTO Nova platform"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "João Santos (MSc)",
+              "On going: 2024 - ...",
+              "Topic: Meerkat UI"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Miguel Ferreira (MSc)",
+              "On going: 2024 - ...",
+              "Topic: DCR Choreographies UI"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Francisco Costa (MSc)",
+              "On going: 2024 - ...",
+              "Topic: DCR Data Consistency"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Nuno Fernandes (MSc)",
+              "On going: 2023 - ...",
+              "Topic: ",
+              "Co-advised with Carla Ferreira"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Bruno Braga (MSc)",
+              "On going: 2023 - ...",
+              "Topic: "
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Diogo Ye (MSc)",
+              "On going: 2023 - ...",
+              "Topic: "
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Nuno Silva (MSc)",
+              "On going: 2023 - ...",
+              "Topic: ",
+              "Co-advised with Hugo Lourenço (OutSystems)"
+            ],
+            "image": ""
+          },
+          {
+            "text": [
+              "Carolina Fernandes (MSc)",
+              "On going: 2023 - ...",
+              "Topic: ",
+              "Co-advised with Ricardo Gonçalves"
+            ],
+            "image": ""
+          },
+          {
+            "text": "# Former students",
+            "image": ""
+          },
+          {
+            "text": [
               "Diogo Rodrigues (MSc)",
-              "On going: 2022 - ...",
+              "Finished: 2024",
               "Topic: Information flow in Regrada"
             ],
             "image": ""
@@ -138,30 +224,18 @@
           {
             "text": [
               "Miguel Brites (MSc)",
-              "On going: 2022 - ...",
+              "Finished: 2024",
               "Topic: Information Flow Verification in Spring Applications"
             ],
             "image": ""
           },
+
           {
-            "text": [
-              "Diogo Carvalho (MSc)",
-              "On going: 2022 - ...",
-              "Topic: "
-            ],
-            "image": ""
-          },
-          
-          {
-            "text": "# Former students",
+            "text": ["Diogo Carvalho (MSc)", "Finished: Nov 2023", "Topic: "],
             "image": ""
           },
           {
-            "text": [
-              "Bernardo Amaral (MSc)",
-              "Finished: May 2023",
-              "Topic: "
-            ],
+            "text": ["Bernardo Amaral (MSc)", "Finished: May 2023", "Topic: "],
             "image": ""
           },
           {
@@ -181,20 +255,20 @@
             ],
             "image": ""
           },
-            {
+          {
             "text": [
               "Joana Parreira (MSc)",
               "Finished: 2021",
-              "Topic: ",
+              "Topic: [From an Ontology for Programming to a Type-Safe Template Language](http://hdl.handle.net/10362/145185)",
               "Co-advised with Carla Ferreira"
             ],
             "image": ""
           },
-            {
+          {
             "text": [
               "Sara Almeida (MSc)",
               "Finished: 2021",
-              "Topic: ",
+              "Topic: [Type-Driven Synthesis Of Evolving Data Models](http://hdl.handle.net/10362/135849)",
               "Co-advised with Bernardo Toninho"
             ],
             "image": ""
@@ -340,7 +414,8 @@
               "Paulo Jorge Sena Figueira (MSc)",
               "Finished: 2018",
               "Topic: Test Automation Framework for Embedded Systems",
-              "Co-advised by Carla Ferreira and Jorge Lopes (Altran)"
+              "Co-advised by Carla Ferreira and Jorge Lopes (Altran)",
+              "[PDF](https://run.unl.pt/bitstream/10362/108739/1/Figueira_2018.pdf)"
             ],
             "image": ""
           },
